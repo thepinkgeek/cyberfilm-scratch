@@ -1,4 +1,4 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
 import com.google.common.base.Strings
 import org.apache.commons.io.FileUtils

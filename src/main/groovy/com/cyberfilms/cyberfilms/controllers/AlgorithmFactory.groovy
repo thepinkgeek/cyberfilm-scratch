@@ -1,4 +1,4 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
 class AlgorithmFactory {
     private final Map<String, Algorithm> algorithmMap

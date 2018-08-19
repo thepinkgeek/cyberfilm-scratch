@@ -1,5 +1,6 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
+import com.cyberfilms.cyberfilms.controllers.Command
 import org.springframework.stereotype.Service
 
 import java.util.concurrent.Executors

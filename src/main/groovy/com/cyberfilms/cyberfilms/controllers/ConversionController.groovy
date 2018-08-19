@@ -1,5 +1,7 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
+import com.cyberfilms.cyberfilms.entities.Film
+import com.cyberfilms.cyberfilms.repositories.FilmRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping

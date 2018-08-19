@@ -1,4 +1,4 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
 class SourceCode {
     final String schemeName

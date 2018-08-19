@@ -1,4 +1,4 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
 class BuildParams {
     String projectName

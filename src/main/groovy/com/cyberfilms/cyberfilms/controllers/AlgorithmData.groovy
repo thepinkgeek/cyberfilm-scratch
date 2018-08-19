@@ -1,4 +1,4 @@
-package com.cyberfilms.cyberfilms
+package com.cyberfilms.cyberfilms.controllers
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
